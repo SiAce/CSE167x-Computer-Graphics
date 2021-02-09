@@ -1,0 +1,13 @@
+# mac files
+.DS_Store
+
+# Compiled Object files
+*.o
+
+# Executables
+*.exe
+*.out
+*.app
+
+# screenshots
+*.png
